@@ -75,7 +75,7 @@ Copy your API Token and paste it into config.cfg
 
 ## Clone the project
 ```
-git clone [https://github.com/yuanyiho/CDC-Alert-Bot.git](https://github.com/yuanyiho/CDC-Alert-Bot.git)
+git clone https://github.com/yuanyiho/CDC-Alert-Bot.git
 
 cd CDC-Alert-Bot
 ```
