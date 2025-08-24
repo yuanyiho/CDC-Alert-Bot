@@ -160,8 +160,8 @@ class CDCAlertBotClass:
             course_dropdown.select_by_value(self.cdc_team)
             self.logger.info(f"[CDC] Course selected: {self.cdc_team}")
 
-            # ✅ Wait up to 5s for full booking message (if any) to appear
-            time.sleep(3)
+            # Wait 5s for full booking message (if any) to appear
+            time.sleep(5)
 
             # Check for "Fully Booked" message
             full_msg_exists = len(driver.find_elements(By.ID, "ctl00_ContentPlaceHolder1_lblFullBookMsg")) > 0
