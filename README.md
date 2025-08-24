@@ -1,5 +1,5 @@
 # ⚠️ DISCLAIMER: USE AT YOUR OWN RISK! ⚠️
-You are potentially might be flagged for possible botting behaviour using this script. I cannot confirm what will happen but so far it is okay for me as it is still within acceptable range of running.
+You might be potentially flagged for possible botting behaviour using this script. I cannot confirm what will happen but so far it is okay for me as it is still within acceptable range of running.
 
 Feel free to fork the project and add more features! For e.g
 1) Ability to book specific sessions when available
