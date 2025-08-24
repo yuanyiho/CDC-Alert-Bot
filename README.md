@@ -31,7 +31,7 @@ This script was inspired, simplified and recreated from referencing [Zhannyhong 
 ## Folder Structure
 
 ```
-CDD-Alert-Bot
+CDC-Alert-Bot
 ├─ config/
 │ └─ config.cfg
 ├─ drivers/
