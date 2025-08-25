@@ -60,7 +60,6 @@ Python3.10
 ---
 
 ## 2CAPTCHA
-```
 This project uses a third party API that is unfortunately a paid service.
 
 As of writing, the rates of using this API are relatively cheap (SGD$5 can last you for about a month of the program runtime). To continue using this project, head over to 2captcha.com
@@ -70,7 +69,7 @@ Create an account
 Top up your account with sufficient credits
 
 Copy your API Token and paste it into config.cfg
-```
+
 ---
 
 ## Clone the project
